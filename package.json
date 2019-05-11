@@ -1,5 +1,5 @@
 {
-  "name": "mq",
+  "name": "ampq",
   "version": "2019.5.11",
   "description": "message queue",
   "main": "index.js",
