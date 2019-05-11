@@ -21,7 +21,8 @@
     "url": "https://github.com/devmachiine/npm-mq/issues"
   },
   "homepage": "https://github.com/devmachiine/npm-mq#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "t3st": "^2019.4.8"
   }
 }
