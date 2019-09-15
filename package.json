@@ -23,6 +23,6 @@
   "homepage": "https://github.com/devmachiine/npm-mq#readme",
   "dependencies": {},
   "devDependencies": {
-    "t3st": "^2019.4.8"
+    "t3st": "^2019.9.12"
   }
 }
